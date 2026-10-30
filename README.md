@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a coding enthusiast living in Zürich, working in Basel. I am a Doctoral Student at D-BSSE, ETHZ. My most recent side project has brought me to PWAs: [Coffe App Test](https://gnp110.github.io/coffee-app/) and [Tram App Test](https://qnp110.github.io/tram-app/).
 <!--
 **qnp110/qnp110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
